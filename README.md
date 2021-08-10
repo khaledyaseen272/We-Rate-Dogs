@@ -6,7 +6,9 @@
 ### In the project I needed to gather 3 files in 3 different formats , every file will make a sigle dataframe:
 
 1- twitter-archive-enhanced.csv (CSV file) 
+
 2- image_predictions.tsv (downloaded programmatically ) 
+
 3- twitter api for additional data ( json file )
 
 ## After loading data from CSV file of Ford Go-bike system Dataset, i started assessing data visually and programatically to be cleaned and I found some limitations i need to handle it before starting analysis , for instance :
