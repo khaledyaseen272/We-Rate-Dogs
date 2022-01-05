@@ -40,7 +40,11 @@
 - i will uniform the rating method so the rating_numerator from 5 to 15 and rating_denominator must be 10.
 - columns arrange in not the best way.
 
-## After cleaning data I stored it as csv file then I read the csv as my new df which will be analyzed and visualized . In analysis and visualization process I decided to focus on 9 insights and visualize them , here the findinings:
+## Explanatory Process
+
+I did the explanatory process with 2 methods. the first one with coding and python visualization libraries (matplotlib and seaborn).In the second method, I decided to export the cleaned data to tableau software where I can do the explanatory process and I got great insights and findings. You can find Tableau dashboards through this link: https://public.tableau.com/app/profile/khaled.yaseen/viz/WeRateDogsAccount/TimeInsights
+
+## Summary of Findings
 
 1- Golden_Retriever has most tweets from weratedogs account .
 
